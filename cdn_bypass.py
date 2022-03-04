@@ -2,7 +2,6 @@ import socket
 import os
 from colorama import Fore
 from colorama import Style
-from scapy.all import *
 import time
 class Cloud_flare_by_pass():
     def __init__(self):
